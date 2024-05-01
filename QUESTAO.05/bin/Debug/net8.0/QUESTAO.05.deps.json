@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QUESTAO.05/1.0.0": {
+        "runtime": {
+          "QUESTAO.05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QUESTAO.05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
